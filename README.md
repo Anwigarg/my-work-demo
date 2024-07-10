@@ -1,7 +1,7 @@
 # my-work-demo
 This is my first Git Repository.
-<br><u>
+<br>
 Author - Anwita Pandey
-</u>
+
 
 
